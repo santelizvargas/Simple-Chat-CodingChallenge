@@ -8,26 +8,6 @@
 
 * Please do not include binaries or external packages or libraries you have used.
 
-We respect your time and understand that asking you to give up an hour or so of your personal time for the interview process is a big ask. 
-
-However, we want to make the process as simple and stress-free as possible, by allowing you to complete the first stage of the process in the comfort of your own home. 
-
-We will also be using your submission in further stages of the process should you be successful.
-
-## What we are looking for
-
-### Test Coverage
-
-The solution should be developed “test-first”, should have good unit tests, and core functionality should be covered. Your tests should also be self-contained and not rely on external systems to be available to run.
-
-### Simplicity
-
-We value simplicity as an architectural virtue and a development practice. Solutions should reflect the difficulty of the assigned task, and should not be overly complex. Layers of abstraction, patterns, or architectural features that aren’t called for should not be included.
-
-### Self-explanatory code
-
-The solution you produce must speak for itself. Multiple paragraphs explaining the solution are a sign that it isn’t straightforward enough to understand purely by reading code, and are not appropriate.
-
 ## The Problem Statement
 
 Create a simple demo chat app that has some basic capabilities:
